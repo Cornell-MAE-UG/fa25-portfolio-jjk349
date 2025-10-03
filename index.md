@@ -6,7 +6,7 @@ title: James Kurtis
 ## About Me
 
 
-![Profile Picture]({{ "profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "/assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am an aspiring Mechanical Engineer at Cornell University. I was born and raised in New York City, but currently live in Long Island. My work on Cornell FSAE Racing has taught me lots of hands-on engineering skills, while I learn theory in my classes.
