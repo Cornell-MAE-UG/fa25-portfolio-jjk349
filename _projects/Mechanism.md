@@ -3,7 +3,7 @@ layout: project
 title: Mechanism
 description: Class project, Homework 12
 technologies: [Art]
-image: /assets/images/portfolio.jpg
+image: /assets/images/pic.png
 ---
 
 I took on the challenge of designing a mechanism to lift a heavy weight as far as possible. The goal of this project was to design a mechanism with limited space and materials to lift the most amount of weight, the greatest distance: here are the constraints that governed my design:
