@@ -35,6 +35,8 @@ Assuming the system is ideal and no work is lost, the power produced by the turb
 
 One change to a turbocharger that can be incredibly beneficial to its function is by connecting its output to an intercooler rather than directly to the engine's intake. Standard turbochargers can be inefficient because they are powered by hot exhaust gases. Heat transfer from the exhaust gas to the turbocharger can cause the compressor itself to be hot and heat up the intake gas that it is trying to compress. Since the newly compressed gas is hot, it expands again before entering the engine, which makes the turbocharger much less valuable. Adding a heat exchanger to cool down the compressed air before sending it to the engine allows the gas to stay compressed and preserving the usefulness of the turbocharger. Because of this, attaching an intercooler to the turbocharger increases its performance.
 
+![schematic]({{"/assets/images/intercooling.jpg" | relative_url }}){: .inline-image-l}
+
 References: 
 
 Witzenburg, G. "Turbochargers vs. Superchargers: Which Is Better?"
