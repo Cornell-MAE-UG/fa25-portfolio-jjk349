@@ -37,3 +37,8 @@ One change to a turbocharger that can be incredibly beneficial to its function i
 
 References: 
 
+Witzenburg, G. "Turbochargers vs. Superchargers: Which Is Better?"
+https://www.caranddriver.com/features/a25412500/turbocharger-vs-supercharger-definition/
+
+Jääskeläinen, H. "Turbocharger Fundamentals"
+https://dieselnet.com/tech/air_turbocharger.php
