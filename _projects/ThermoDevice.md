@@ -5,10 +5,11 @@ description: Analysis of a device using thermodynamics principles.
 technologies: Google
 image: /assets/images/turbo.jpg
 ---
+## The Turbocharger
 
 Internal combustion engines are classic examples of useful thermodynamic devices that are extremely important for everyday life. They drive a primary mode of reliable transportation that humans have been reliant on in many parts of the world since their creation. Since engines are so important to us, we have invented ways to improve their power output without increasing their size or weight. One incredibly imporant way that this is achieved, primarily in ICE cars, is the Turbocharger.
 
-![engine]({{"/assets/images/engine.jpg" | relative_url }}){: .inline-image-l}
+![engine]({{"/assets/images/engine.jpeg" | relative_url }}){: .inline-image-l}
 
 Standard piston-cylinder combustion engines work (for my purposes) by mixing air with a small amount of fuel and igniting the mixture to drive pistons and produce rotational work. It would be trivial to inject more fuel into the engine to produce more work, but unfortunately this is very inefficient, and uses a lot of fuel for how much work is produced. As it turns out, there is an ideal ratio of air to fuel (about 14:1) in the mixture that both produces a lot of work and conserves fuel. Thus the difficulty in making more powerful engines is shoving more air into your engine at a time to match the amount of fuel that you can use at once. Rather than making a high-volume engine, a more weight efficient solution is to compress air into the air-fuel mixture, so that there is more fuel in the same volume, without making a lean air-fuel ratio.
 
