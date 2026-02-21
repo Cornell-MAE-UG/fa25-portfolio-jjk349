@@ -18,7 +18,7 @@ References and additional sections go here.
 
 You can download the full report here:
 
-[Download the SLF Removal PDF]({{ "/assets/files/SLFRemoval.pdf" | relative_url }})
+[Download the SLF Removal PDF]({{ "/assets/files/Client Outline and Pitch.pdf" | relative_url }})
 
 Or view it inline below:
 
