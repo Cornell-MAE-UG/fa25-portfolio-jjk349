@@ -1,8 +1,8 @@
 ---
 layout: project
 title: SLF Removal
-description: Project entry for SLF removal.
-technologies: Laboratory
+description: Lantern Fly Removal Device Pitch
+technologies: N/A
 image: /assets/images/bug.jpg
 ---
 
@@ -10,13 +10,14 @@ image: /assets/images/bug.jpg
 
 ## Download & View
 
+
 You can download the full report here:
 
-[Download the SLF Removal PDF]({{ "/assets/files/Client Outline and Pitch.pdf" | relative_url }})
+[Download the Client Outline and Pitch PDF]({{ "/assets/files/Client Outline and Pitch.pdf" | relative_url }})
 
-Or view it inline below:
+Or view it inline below (PDF.js viewer):
 
-<object data="{{ '/assets/files/SLFRemoval.pdf' | relative_url }}" type="application/pdf" width="100%" height="800">
-	<p>Your browser does not support PDFs. <a href="{{ '/assets/files/SLFRemoval.pdf' | relative_url }}">Download the PDF</a>.</p>
-</object>
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file={{ '/assets/files/Client%20Outline%20and%20Pitch.pdf' | relative_url }}" width="100%" height="800"></iframe>
+
+<p>If the viewer doesn't load, <a href="{{ '/assets/files/Client Outline and Pitch.pdf' | relative_url }}">download the PDF</a>.</p>
 
