@@ -17,7 +17,7 @@ You can download the full report here:
 
 Or view it inline below (PDF.js viewer):
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file={{ '/assets/files/Client%20Outline%20and%20Pitch.pdf' | relative_url }}" width="100%" height="800"></iframe>
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file={{ '/assets/files/Client Outline and Pitch.pdf' | relative_url }}" width="100%" height="800"></iframe>
 
 <p>If the viewer doesn't load, <a href="{{ '/assets/files/Client Outline and Pitch.pdf' | relative_url }}">download the PDF</a>.</p>
 
