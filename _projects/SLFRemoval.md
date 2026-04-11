@@ -8,7 +8,7 @@ image: /assets/images/bug.jpg
 
 ##  Lantern Fly Removal Device Pitch
 
-### Quick Links
+#### Quick Links
 - [Client Outline and Pitch](#pdf1)
 - [Functional Prototype](#pdf2)
 
