@@ -30,10 +30,10 @@ Or view it inline below:
 ## <a id="pdf2"></a>Functional Prototype
 
 Downloadable PDF:
-[Download the Functional Prototype PDF]({{ "/assets/files/ODP 5.pdf" | relative_url }})
+[Download the Functional Prototype PDF]({{ "/assets/files/ODP5.pdf" | relative_url }})
 
 Or view it inline below:
 
-<iframe src="{{ '/assets/files/ODP 5.pdf' | relative_url }}" width="100%" height="800"></iframe>
+<iframe src="{{ '/assets/files/ODP5.pdf' | relative_url }}" width="100%" height="800"></iframe>
 
-<p>If the viewer doesn't load, <a href="{{ '/assets/files/ODP 5.pdf' | relative_url }}">download the PDF</a>.</p>
+<p>If the viewer doesn't load, <a href="{{ '/assets/files/ODP5.pdf' | relative_url }}">download the PDF</a>.</p>
