@@ -11,6 +11,7 @@ image: /assets/images/bug.jpg
 #### Quick Links
 - [Client Outline and Pitch](#pdf1)
 - [Functional Prototype](#pdf2)
+- [Client Report](#pdf3)
 
 ---
 
@@ -30,10 +31,19 @@ Or view it inline below:
 ## <a id="pdf2"></a>Functional Prototype
 
 Downloadable PDF:
-[Download the Functional Prototype PDF]({{ "/assets/files/ODP5.pdf" | relative_url }})
+[Download the Functional Prototype PDF]({{ "/assets/files/ODP6" | relative_url }})
 
 Or view it inline below:
 
 <iframe src="{{ '/assets/files/ODP5.pdf' | relative_url }}" width="100%" height="800"></iframe>
 
 <p>If the viewer doesn't load, <a href="{{ '/assets/files/ODP5.pdf' | relative_url }}">download the PDF</a>.</p>
+
+Downloadable PDF:
+[Download the Client Report PDF]({{ "/assets/files/ODP5.pdf" | relative_url }})
+
+Or view it inline below:
+
+<iframe src="{{ '/assets/files/ODP5.pdf' | relative_url }}" width="100%" height="800"></iframe>
+
+<p>If the viewer doesn't load, <a href="{{ '/assets/files/ODP6.pdf' | relative_url }}">download the PDF</a>.</p>
