@@ -39,6 +39,7 @@ Or view it inline below:
 
 <p>If the viewer doesn't load, <a href="{{ '/assets/files/ODP5.pdf' | relative_url }}">download the PDF</a>.</p>
 
+## <a id="pdf3"></a>Client Outline and Pitch
 Downloadable PDF:
 [Download the Client Report PDF]({{ "/assets/files/ODP5.pdf" | relative_url }})
 
