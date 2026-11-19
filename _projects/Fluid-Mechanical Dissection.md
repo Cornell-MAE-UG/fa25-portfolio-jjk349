@@ -5,8 +5,8 @@ description: Dissection of something.
 technologies: 
 image: 
 ---
-words here
+We are taking apart a power takeoff.
 
 References: 
 
-references too.
+there shall be references too.
